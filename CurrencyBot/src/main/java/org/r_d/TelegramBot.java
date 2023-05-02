@@ -49,11 +49,11 @@ public class TelegramBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "****";
+        return "r_d_JavaCurrencyBot";
     }
 
     @Override
     public String getBotToken() {
-        return "****";
+        return "5917536320:AAH6B4JuCF9Y2g6qeLv85gpj7fkgkTrImHw";
     }
 }
